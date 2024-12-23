@@ -1,0 +1,18 @@
+button {
+    background-color: #725A5D55; 
+    color: #ffffff;
+    border: 2.5px solid #725A5D;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    backdrop-filter: blur(10px); 
+    -webkit-backdrop-filter: blur(5px);
+    border-radius: 5px;
+    width: 40vh;
+    padding: 20px;
+}
+
+button:hover {
+    background-color: #725A5DEE; 
+    color: #ffffff;
+}
